@@ -41,7 +41,7 @@ h1:hover {
 }
 
 #section-1 {
-  background-image: url(../../../Photos/paris.jpg);
+  background-image: url(./img/paris.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -51,7 +51,7 @@ h1:hover {
 }
 
 #section-2 {
-  background-image: url(../../../Photos/dubai.jpg);
+  background-image: url(./img/dubai.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -61,7 +61,7 @@ h1:hover {
 }
 
 #section-3 {
-  background-image: url(../../../Photos/newyork.jpg);
+  background-image: url(./img/newyork.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -71,7 +71,7 @@ h1:hover {
 }
 
 #section-4 {
-  background-image: url(../../../Photos/london2.jpg);
+  background-image: url(./img/london2.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
